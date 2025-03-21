@@ -60,7 +60,8 @@ php artisan serve
 
 
 ## ⚙️ 環境設定 (.env)
-以下の環境変数を `.env` に設定してください。
+以下の環境変数を `.env` に設定してください。￥
+,,,
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=
@@ -127,7 +128,7 @@ AWS_BUCKET=
 AWS_USE_PATH_STYLE_ENDPOINT=false
 
 VITE_APP_NAME="${APP_NAME}"
-
+,,,
 
 ### 基本的な利用フロー
 ログインする
