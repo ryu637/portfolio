@@ -144,6 +144,9 @@ VITE_APP_NAME="${APP_NAME}"
 
 進捗レポートを見る
 
+url; figma （参考にしたデザイン)
+https://www.figma.com/design/SIHgYI5FMpKE2i3PCJKRqW/%E3%81%98%E3%82%87%E3%81%86r%E3%81%AAl?node-id=39-2&t=8vzr5subWlj37kxZ-0
+
 
 ## 🔧 今後の改善点
 
